@@ -20,6 +20,10 @@
          "patterns": ["Which mopeds do you have?", "What kinds of mopeds are there?", "What do you rent?" ],
          "responses": ["We rent Yamaha, Piaggio and Vespa mopeds", "We have Piaggio, Vespa and Yamaha mopeds"]
         },
+        {"tag": "weather",
+         "patterns": ["what’s the weather in Seattle tomorrow?" ],
+         "responses": ["5°C"]
+        },
         {"tag": "payments",
          "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
          "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
